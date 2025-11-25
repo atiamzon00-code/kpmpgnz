@@ -48,7 +48,7 @@ body{
 /* ---- NEW: DARK OVERLAY FOR READABILITY ---- */
 /* This creates a semi-transparent layer over your background image so text is easy to read */
 .phone-shell {
-  width: 380px;
+  width: 480px;
   height: 560px;
 
   /* ⭐ 1. IMAGE BACKGROUND (Change this URL to your own image if needed) ⭐ */
@@ -646,4 +646,5 @@ h1,h2{margin:0 0 6px 0;}
 .city-filter:focus {
   outline: none;
   border-color: var(--accent);
+
 }

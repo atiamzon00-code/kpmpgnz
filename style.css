@@ -24,7 +24,7 @@ body{
 
 .phone-shell{
   width:480px;
-  height:700px;
+  height:900px;
   
   /* ⭐ 1. REPLACE THE OLD GREY BACKGROUND WITH YOUR IMAGE URL BELOW ⭐ */
   background-image: url('https://as1.ftcdn.net/jpg/02/06/26/08/1000_F_206260811_oPpBC7feTt2UGzrPYMyt0Z9R8bmUatLF.jpg');
@@ -648,3 +648,4 @@ h1,h2{margin:0 0 6px 0;}
   border-color: var(--accent);
 
 }
+
